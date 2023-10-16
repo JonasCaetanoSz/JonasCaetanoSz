@@ -1,7 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a56d8a&height=120&section=header"/>
-
-<h1 align="center">olá👋, eu sou jonas</h1>
-<h3 align="center">um desenvolvedor back-end brasileiro</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a56d8a&height=80&section=header"/>
 
 ## Entre em contato comigo
 
@@ -67,4 +64,4 @@
 </details>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a56d8a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a56d8a&height=80&section=footer"/>
